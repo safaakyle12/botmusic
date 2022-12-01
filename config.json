@@ -3,7 +3,7 @@
   "YOUTUBE_API_KEY": "AIzaSyDR5zbkj-xWVID5vrQRdyN3a1sru7RlXA4",
   "SOUNDCLOUD_CLIENT_ID": "هنا تقدر تحط ساوند ايدي في حاله تبي تشغل الاغاني من الساوند",
   "MAX_PLAYLIST_SIZE": 1000,
-  "PREFIX": "هنا تحط البريفكس",
+  "PREFIX": "!",
   "PRUNING": false,
   "LOCALE": "en",
   "STAY_TIME":604800,
